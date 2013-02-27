@@ -15,7 +15,10 @@
 
         html, body {
             background: white;
-            padding: 0 5px 0 5px;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
         }
 
         a {
@@ -27,11 +30,20 @@
             text-decoration: underline;
         }
 
-        .container {
-            margin: 50px auto 40px auto;
+        .wrapper {
+            display: table;
             width: 100%;
             max-width: 400px;
+            height: 100%;
+            margin: 0 auto;
+        }
+
+        .container {
+            display: table-cell;
+            vertical-align: middle;
+            margin: 50px auto 40px auto;
             font-size: 1.1em;
+            line-height: 1.5em;
         }
 
         header {
@@ -42,10 +54,12 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>Hello, stranger!</header>
-        <p>My name is Henriques, Tiago Henriques. I'm currently interning at WIT Software, writing code for the world's finest RCS Android client. I'm also finishing up my MSc on Informatics Engineering.</p>
-        <footer>Reach me through <a href="http://twitter.com/tiagomnh" id="twitter">twitter</a>. Fork my stuff on <a href="https://github.com/tiagomnh" id="github">github</a>. Be happy.</footer>
+    <div class="wrapper">
+        <div class="container">
+            <header>Hello, stranger!</header>
+            <p>My name is Henriques, Tiago Henriques. I'm currently interning at WIT Software, writing code for the world's finest RCS Android client. I'm also finishing up my MSc on Informatics Engineering.</p>
+            <footer>Reach me through <a href="http://twitter.com/tiagomnh" id="twitter">twitter</a>. Fork my stuff on <a href="https://github.com/tiagomnh" id="github">github</a>. Be happy.</footer>
+        </div>
     </div>
     <script type="text/javascript">
         var _gaq = _gaq || [];
