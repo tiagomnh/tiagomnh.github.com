@@ -1,0 +1,33 @@
+body {
+	margin-top: 30px;
+	background: #F5F5F5;
+	font-family: "HelveticaNeue-light", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #666;
+}
+
+.thin {
+	font-weight: lighter;
+}
+
+.box {
+	background: #FFFFFF;
+	border: solid 1px #E7E2DE;
+	box-shadow: 1px 1px 8px rgb(230, 230, 230);
+	padding: 20px;
+	padding-bottom: 0px;
+	margin-bottom: 20px;
+}
+
+a {
+	color: #E73000;
+	text-decoration: none;
+	border-bottom: .0625rem dotted;
+}
+
+a:hover {
+	color: #D20000;
+}
+
+dl dt {
+	font-weight: normal;
+}
