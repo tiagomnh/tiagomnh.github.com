@@ -1,55 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Tiago Henriques</title>
-    <link rel="stylesheet" type="text/css" href="css/foundation.min.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width; initial-scale = 1.0; maximum-scale=1.0; user-scalable=no" />
-    <link rel="shortcut icon" href="/favicon.ico">
-</head>
-<body>
-    <div class="row">
-        <div class="large-8 large-centered columns">
-            <div class="box">
-                <h4 class="thin">Hi, my name is <strong>Tiago Henriques</strong>.</h4>
-                <p>I'm an iOS developer based in Coimbra, Portugal currently writing code for <a href="http://www.wit-software.com/">WIT Software</a>. I go to great lengths to keep things simple. Sometimes I succeed, others I fail, but I always learn something in the process.</p>
-                <ul class="inline-list">
-                    <li><a href="https://twitter.com/Tiagomnh">Twitter</a></li>
-                    <li><a href="https://github.com/tiagomnh">GitHub</a></li>
-                    <li><a href="http://stackoverflow.com/users/646367/tiago">StackOverflow</a></li>
-                    <li><a href="http://pt.linkedin.com/pub/tiago-henriques/16/b45/1b8">LinkedIn</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="large-8 large-centered columns">
-            <div class="box">
-                <h4>Personal projects</h4>
-                <dl>
-                    <dt><a href="https://chrome.google.com/webstore/detail/urban-dictionary-search/gfjijibnpohkjdmbahejpeoilmgjahei?hl=en">Urban Dictionary Search</a></dt>
-                    <dd>Google Chrome extension that scrapes definitions from Urban Dictionary.</dd>
-                </dl>
-                <dl>
-                    <dt><a href="https://github.com/tiagomnh/THCircularProgressView">THCircularProgressView</a></dt>
-                    <dd>A configurable circular progress UIView.</dd>
-                </dl>
-                <dl>
-                    <dt><a href="https://itunes.apple.com/us/app/fluky/id647708278?mt=8">Fluky</a></dt>
-                    <dd>Beautiful and simple iOS app for all your random generation needs.</dd>
-                </dl>
-            </div>
-        </div>
-    </div>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-38242712-1']);
-        _gaq.push(['_trackPageview']);
+---
+layout: default
+title: Tiago Henriques
+---
 
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-</body>
-</html>
+{% include projects.html %}
+<!--{% include posts.html %}-->
