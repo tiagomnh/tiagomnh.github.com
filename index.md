@@ -14,9 +14,9 @@ Want to get in touch? Shoot me a [tweet](http://twitter.com/tiagomnh) or an [ema
 
 I've made some iOS apps in my spare time for fun <del>and profit</del>. You're welcome to try them out.
 
-* **[Grama]():** Hashtag generator for the enthusiast Instagrammer.
+* **[Grama](https://itunes.apple.com/us/app/grama-hashtag-generator-for/id1003533860?mt=8):** Hashtag generator for the enthusiast Instagrammer.
 
-* **[TweetDrafts]():** All your drafts in one place. Quick to access, easy to tweet.
+* **[TweetDrafts](https://itunes.apple.com/us/app/tweetdrafts-editor-for-twitter/id968921355?mt=8):** All your drafts in one place. Quick to access, easy to tweet.
 
 * **[Fluky](https://itunes.apple.com/us/app/fluky/id647708278?mt=8):** Need to toss a coin or throw a dice? There's an app for that.
 
