@@ -1,2 +1,13 @@
-name: Tiago Henriques
-pygments: true
+title: Tiago Henriques
+baseurl: ""
+
+date_format: "%d-%m-%Y"
+
+google_analytics: UA-38242712-1
+disqus_shortname:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
