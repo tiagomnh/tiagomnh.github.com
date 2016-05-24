@@ -7,7 +7,4 @@ google_analytics: UA-38242712-1
 disqus_shortname:
 
 # Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
