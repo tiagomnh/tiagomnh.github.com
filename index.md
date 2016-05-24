@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello!
+# Hello! 👋
 
 I am Tiago Henriques, a software engineer living in Coimbra, Portugal. Since 2013 I've been at [WIT Software](https://www.wit-software.com/) working on some cool iOS apps for some of the world's largest telcos. I also try to do some [open source goodness](https://github.com/tiagomnh) in my spare time.
 
@@ -10,15 +10,24 @@ When I'm not writing code, I'm usually travelling, [taking photos](http://instag
 
 Want to get in touch? Shoot me a [tweet](http://twitter.com/tiagomnh) or an [email](mailto:tiagomnh@gmail.com).
 
-## Side Projects
+## Apps I've worked on 💻
+
+* [Vodafone Backup+](https://itunes.apple.com/pt/app/vodafone-backup+/id981065833?mt=8) (2015-now) ~ Backup your photos, videos and contacts to Dropbox.
+
+* [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013-2015) ~ White-label instant messaging and VoIP iOS apps compliant with the RCS 5.1 specification.
+
+* [Vodafone Message+](https://itunes.apple.com/ie/app/vodafone-message+/id833409201?mt=8) (2014) ~ Instant messaging app.
+
+
+## Side Projects 🛠
 
 I've made some iOS apps in my spare time for fun <del>and profit</del>. You're welcome to try them out.
 
-* **[Grama](https://itunes.apple.com/us/app/grama-hashtag-generator-for/id1003533860?mt=8):** Hashtag generator for the enthusiast Instagrammer.
+* [Grama](https://itunes.apple.com/us/app/grama-hashtag-generator-for/id1003533860?mt=8) (2015) ~ Hashtag generator for the enthusiast Instagrammer.
 
-* **[TweetDrafts](https://itunes.apple.com/us/app/tweetdrafts-editor-for-twitter/id968921355?mt=8):** All your drafts in one place. Quick to access, easy to tweet.
+* <del>[TweetDrafts](https://itunes.apple.com/us/app/tweetdrafts-editor-for-twitter/id968921355?mt=8) (2015) ~ All your drafts in one place. Quick to access, easy to tweet.</del> No longer available in the App Store, sorry! 😅 
 
-* **[Fluky](https://itunes.apple.com/us/app/fluky/id647708278?mt=8):** Need to toss a coin or throw a dice? There's an app for that.
+* [Fluky](https://itunes.apple.com/us/app/fluky/id647708278?mt=8) (2013) ~ Need to toss a coin or throw a dice? There's an app for that.
 
 &nbsp;
 
