@@ -23,11 +23,12 @@ Want to get in touch? Shoot me a [tweet](http://twitter.com/tiagomnh) or an [ema
 
 I've made some iOS apps in my spare time for fun <del>and profit</del>. You're welcome to try them out.
 
-* [Grama](https://itunes.apple.com/us/app/grama-hashtag-generator-for/id1003533860?mt=8) (2015) ~ Hashtag generator for the enthusiast Instagrammer.
+* [Fluky](https://itunes.apple.com/us/app/fluky/id647708278?mt=8) (2013) ~ Need to toss a coin or throw a dice? There's an app for that.
+
+* <del>[Grama](https://itunes.apple.com/us/app/grama-hashtag-generator-for/id1003533860?mt=8) (2015) ~ Hashtag generator for the enthusiast Instagrammer.</del> Unfortunately due to the new [Instagram platform policy](http://developers.instagram.com/post/133424514006/instagram-platform-update) I had to pull Grama from the App Store. 😢
 
 * <del>[TweetDrafts](https://itunes.apple.com/us/app/tweetdrafts-editor-for-twitter/id968921355?mt=8) (2015) ~ All your drafts in one place. Quick to access, easy to tweet.</del> No longer available in the App Store, sorry! 😅 
 
-* [Fluky](https://itunes.apple.com/us/app/fluky/id647708278?mt=8) (2013) ~ Need to toss a coin or throw a dice? There's an app for that.
 
 &nbsp;
 
