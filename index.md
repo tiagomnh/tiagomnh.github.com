@@ -12,7 +12,7 @@ Want to get in touch? Shoot me a [tweet](http://twitter.com/tiagomnh) or an [ema
 
 ## Apps I've worked on 💻
 
-* [Vodafone Backup+](https://itunes.apple.com/pt/app/vodafone-backup+/id981065833?mt=8) (2015-now) ~ Backup your photos, videos and contacts to Dropbox.
+* [Vodafone Backup+](https://itunes.apple.com/pt/app/vodafone-backup+/id981065833?mt=8) (2015-2017) ~ Backup your photos, videos and contacts to Dropbox.
 
 * [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013-2015) ~ White-label instant messaging and VoIP iOS apps compliant with the RCS 5.1 specification.
 
