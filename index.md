@@ -4,7 +4,7 @@ layout: default
 
 # Hello! 👋
 
-I am Tiago Henriques, a software engineer living in Coimbra, Portugal. Since 2013 I've been at [WIT Software](https://www.wit-software.com/) working on some cool iOS apps for some of the world's largest telcos. I also try to do some [open source goodness](https://github.com/tiagomnh) in my spare time.
+I am Tiago Henriques, a software engineer living in Coimbra, Portugal. Since 2012 I've been at [WIT Software](https://www.wit-software.com/) working on some cool iOS apps for some of the world's largest telcos. I also try to do some [open source goodness](https://github.com/tiagomnh) in my spare time.
 
 When I'm not writing code, I'm usually travelling, [taking photos](http://instagram.com/tiagomnh), watching movies or singing in the shower.
 
@@ -12,11 +12,15 @@ Want to get in touch? Shoot me a [tweet](http://twitter.com/tiagomnh) or an [ema
 
 ## Apps I've worked on 💻
 
-* [Vodafone Backup+](https://itunes.apple.com/pt/app/vodafone-backup+/id981065833?mt=8) (2015-2017) ~ Backup your photos, videos and contacts to Dropbox.
+* **V-Auto by Vodafone** (2017-Now) ~ IoT app that tracks car location, displays trip statistics and provides SOS features in case of car collision.
 
-* [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013-2015) ~ White-label instant messaging and VoIP iOS apps compliant with the RCS 5.1 specification.
+* **M-Pesa** (2017) ~ Mobile payments app for the Tanzanian and Kenyan markets.
 
-* [Vodafone Message+](https://itunes.apple.com/ie/app/vodafone-message+/id833409201?mt=8) (2014) ~ Instant messaging app.
+* [**Vodafone Backup+**](https://itunes.apple.com/pt/app/vodafone-backup+/id981065833?mt=8) (2015-2017) ~ Backups app that uploads your iPhone's photos, videos and contacts to Dropbox.
+
+* [**WIT RCS Apps**](https://www.wit-software.com/products/rcs-suite/) (2013-2015) ~ White-label instant messaging and VoIP iOS apps compliant with the RCS 5.1 specification.
+
+* [**Vodafone Message+**](https://itunes.apple.com/ie/app/vodafone-message+/id833409201?mt=8) (2014) ~ Instant messaging app.
 
 
 ## Side Projects 🛠
