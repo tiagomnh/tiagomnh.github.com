@@ -4,7 +4,7 @@ layout: default
 
 # Hello! 👋
 
-I am Tiago Henriques, a software engineer living in Coimbra, Portugal. Since 2012 I've been at [WIT Software](https://www.wit-software.com/) working on some cool iOS apps for some of the world's largest telcos. I also try to do some [open source goodness](https://github.com/tiagomnh) in my spare time.
+I am Tiago Henriques, a software engineer living in Coimbra, Portugal. Since 2013 I've been at [WIT Software](https://www.wit-software.com/) working on some cool iOS apps for some of the world's largest telcos. I also try to do some [open source goodness](https://github.com/tiagomnh) in my spare time.
 
 When I'm not writing code, I'm usually travelling, [taking photos](http://instagram.com/tiagomnh), watching movies or singing in the shower.
 
