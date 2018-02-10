@@ -12,9 +12,9 @@ Want to get in touch? Shoot me a [tweet](http://twitter.com/tiagomnh) or an [ema
 
 ## Apps I've worked on 💻
 
-* **V-Auto by Vodafone** (2017-Now) ~ IoT app that tracks car location, displays trip statistics and provides SOS features in case of car collision.
+* [**V-Auto by Vodafone**](https://shop.v.vodafone.com/UK/V-Auto) (2017-Now) ~ IoT app that tracks car location, displays trip statistics and provides SOS features in case of car collision.
 
-* **M-Pesa** (2017) ~ Mobile payments app for the Tanzanian and Kenyan markets.
+* [**M-Pesa**](https://itunes.apple.com/gb/app/m-pesa-tanzania/id1313948420?mt=8) (2017) ~ Mobile payments app for the Tanzanian and Kenyan markets.
 
 * [**Vodafone Backup+**](https://itunes.apple.com/pt/app/vodafone-backup+/id981065833?mt=8) (2015-2017) ~ Backups app that uploads your iPhone's photos, videos and contacts to Dropbox.
 
